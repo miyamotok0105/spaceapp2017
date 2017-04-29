@@ -9,11 +9,14 @@ node app.js
 exsample site
 https://bl.ocks.org/mbostock/899711
 
-http://localhost:3000/gmaps/examples/mapd3/index.html
+if use this , first input api key like hogehoge.
+<script src="https://maps.googleapis.com/maps/api/js?key=hogehoge"></script>
+
+http://localhost:3000/examples/mapd3/index.html
 
 */
 
-app.use('/gmaps', express.static(__dirname + '/gmaps'));
+app.use('/examples', express.static(__dirname + '/examples'));
 
 
 app.get('/', function (req, res) {
