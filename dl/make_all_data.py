@@ -38,7 +38,7 @@ for long_map in range(-177,181, 10):
         print lat_map
         if os.path.exists("image/all_data/%s_%s.png"%(long_map, lat_map)) == False:
             get_map_image(long_map, lat_map)
-            time.sleep(0.5)
+            time.sleep(3)
     #     break
     # break
 
