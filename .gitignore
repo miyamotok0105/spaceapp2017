@@ -17,7 +17,6 @@
 *.pkl
 *.bin
 *.vec
-*.txt
 *.db
 *.h5
 *.jpg

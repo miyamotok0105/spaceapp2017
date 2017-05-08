@@ -1,0 +1,2 @@
+/home/ubuntu/miyamoto/sample/spaceapp2017/dl/images/image0000003.png 0
+/home/ubuntu/miyamoto/sample/spaceapp2017/dl/images/image0000009.png 1
